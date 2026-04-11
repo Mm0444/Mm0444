@@ -1,79 +1,91 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Maneeya%20Utarak&fontSize=60" />
+<!-- Animated Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+[Your+Name]+%E2%9C%A8;Computer+Science+Student;Software+Engineer+Intern;Welcome+to+my+Github+Profile!" alt="Typing SVG" />
+</h1>
 
-  ### 🚀 Computer Science Student & Aspiring Full Stack Developer
-  *(Third-Year @ Huachiew Chalermprakiet University)*
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Development;IoT+and+Hardware+Integration;System+Scalability+%26+Database)](https://git.io/typing-svg)
-</div>
-
----
-
-### 📋 About Me
-* 🔭 **Current Project:** กำลังพัฒนาหุ่นฝึก CPR อัจฉริยะ (Intelligent CPR Manikin) โดยใช้ ESP32 และระบบ Load Cells
-* 🌱 **Learning:** เน้นหนักด้าน SaaS Architecture และระบบจัดการฐานข้อมูลแบบ Graph Database
-* ⚡ **Fun Fact:** แฟนตัวยงของ Manchester City และชอบสะสมเสื้อฟุตบอลหลายเกรด
-
----
-
-### 🛠️ Professional Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=arduino" width="40" height="40" alt="Arduino" />
-      <br>Arduino
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
-</table>
-
----
-
-### 🏆 Milestone Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Thai-GreenConnect** | แพลตฟอร์ม SaaS สำหรับบัญชีคาร์บอนและ Digital Green Passports | Node.js, SaaS, GreenTech |
-| **Alumni Tracking** | ระบบติดตามศิษย์เก่าด้วยโครงสร้าง Graph Database | GraphDB, Dashboard, Analytics |
-| **Therapy Assistant** | แพลตฟอร์มคัดกรอง Office Syndrome เชื่อมต่อนักกายภาพ | HealthTech, UI/UX, SaaS |
-
----
-
-### 📈 GitHub Activities & Stats
+<h3 align="center">Architecting solutions through code | Actively seeking SWE Internships 🚀</h3>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <a href="https://github.com/[your_username]">
+    <img src="https://komarev.com/ghpvc/?username=[your_username]&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
 </p>
 
 ---
 
-<div align="center">
-  <h3>📫 Let's Connect</h3>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
+### 👨‍💻 About Me
+
+* 🎓 **Computer Science** student at **[University Name]** (Expected Graduation: **[Month, Year]**)
+
+I am a third-year student in the Faculty of Science and Technology, majoring in Computer Science.I am interested in undertaking a co-operative education internship as a Software Developer.I am interested in developing programs, websites, and applications to improve my programming skills and create efficient software. This will help me further my project development and allow me to learn new technologies. The benefits of the internship include developing teamwork skills, self-improvement, and a quick learning ability, ultimately contributing to the organization's valuable work.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**💻 Frontend** <br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,c,cpp" alt="Frontend Icons" /></a>
+
+**⚙️ Backend** <br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,php,nodejs,postman,java,flask,git" alt="Backend Icons" /></a>
+
+**🗄️ Database** <br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="Database Icons" /></a> <br>
+<img src="https://img.shields.io/badge/XAMPP-F37623?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP" height="30"/>
+
+**🌐 Network** <br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,ubuntu" alt="Network" /></a>
+
+**🔌 IoT & Embedded** <br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="IoT Icons" /></a> <br>
+<img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" height="30"/>
+<img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=node-red&logoColor=white" alt="Node-RED" height="30"/>
+<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" height="30"/>
+
+**🎨 Design & Game Development** <br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=unity,blender" alt="Design Icons" /></a>
+
+**🛠️ Tools** <br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,figma,github" alt="Tools" /></a>
+
+
+---
+
+### 🚀 Highlighted Projects
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :---: | :---: |
+| **LearnVentory-Hub** | A comprehensive Web-based Inventory Management and POS system. Features complete CRUD operations, a responsive UI, and secure database interactions. | `PHP` `MySQL` | [🔗 View](#) |
+| **LSB Steganography** | A Flask web app utilizing Least Significant Bit encoding and OpenCV to securely hide secret texts inside image files with password protection. | `Python` `Flask` | [🔗 View](#) |
+| **Typing Test Engine** | An interactive web browser game built to test and improve WPM (Words Per Minute) typing speed and accuracy. | `JavaScript` `HTML5` | [🔗 View](#) |
+
+*(Explore my pinned repositories below for more detailed case studies and code samples!)*
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[your_username]&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your_username]&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your_username]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+<p align="center">
+  <a href="mailto:[your.email@gmail.com]">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/[your_linkedin_username]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="[Your_Portfolio_URL]">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
