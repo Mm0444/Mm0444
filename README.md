@@ -1,13 +1,11 @@
 <!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+[Your+Name]+%E2%9C%A8;Computer+Science+Student;Software+Engineer+Intern;Welcome+to+my+Github+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=9933CC&center=true&vCenter=true&width=590&lines=Hi+I'm[Maneeya+Oustaruk]+%E2%9C%A8;Computer+Science+Student;Welcome+to+my+Github+Profile!" alt="Typing SVG" />
 </h1>
-
-<h3 align="center">Architecting solutions through code | Actively seeking SWE Internships 🚀</h3>
 
 <p align="center">
   <a href="https://github.com/[your_username]">
-    <img src="https://komarev.com/ghpvc/?username=[your_username]&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=[your_username]&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Resume" />
   </a>
 </p>
 
@@ -18,6 +16,14 @@
 * 🎓 **Computer Science** student at **[University Name]** (Expected Graduation: **[Month, Year]**)
 
 I am a third-year student in the Faculty of Science and Technology, majoring in Computer Science.I am interested in undertaking a co-operative education internship as a Software Developer.I am interested in developing programs, websites, and applications to improve my programming skills and create efficient software. This will help me further my project development and allow me to learn new technologies. The benefits of the internship include developing teamwork skills, self-improvement, and a quick learning ability, ultimately contributing to the organization's valuable work.
+
+---
+
+### 📫 Connect
+Email : maneeya2547@gmail.com <br>
+Github: https://github.com/Mm0444 <br>
+Phone Tel : 0822955992 <br>
+
 
 ---
 
@@ -75,17 +81,3 @@ I am a third-year student in the Faculty of Science and Technology, majoring in 
 </p>
 
 ---
-
-### 📫 Let's Connect!
-
-<p align="center">
-  <a href="mailto:[your.email@gmail.com]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/[your_linkedin_username]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="[Your_Portfolio_URL]">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
