@@ -53,11 +53,11 @@ I am a third-year student in the Faculty of Science and Technology, majoring in 
 
 ### 🚀 Highlighted Projects
 
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :---: | :---: |
-| **LearnVentory-Hub** | A comprehensive Web-based Inventory Management and POS system. Features complete CRUD operations, a responsive UI, and secure database interactions. | `PHP` `MySQL` | [🔗 View](#) |
-| **LSB Steganography** | A Flask web app utilizing Least Significant Bit encoding and OpenCV to securely hide secret texts inside image files with password protection. | `Python` `Flask` | [🔗 View](#) |
-| **Typing Test Engine** | An interactive web browser game built to test and improve WPM (Words Per Minute) typing speed and accuracy. | `JavaScript` `HTML5` | [🔗 View](#) |
+| Project | Description | Tech Stack |
+| :--- | :--- | :---: | 
+| **LearnVentory-Hub** | A comprehensive Web-based Inventory Management and POS system. Features complete CRUD operations, a responsive UI, and secure database interactions. | `PHP` `MySQL` | 
+| **LSB Steganography** | A Flask web app utilizing Least Significant Bit encoding and OpenCV to securely hide secret texts inside image files with password protection. | `Python` `Flask` | 
+| **Typing Test Engine** | An interactive web browser game built to test and improve WPM (Words Per Minute) typing speed and accuracy. | `JavaScript` `HTML5` |
 
 *(Explore my pinned repositories below for more detailed case studies and code samples!)*
 
