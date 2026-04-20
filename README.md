@@ -4,17 +4,13 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/[your_username]">
-    <img src="https://komarev.com/ghpvc/?username=[your_username]&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Resume" />
+  <a href="https://mm0444.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-FF6699?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
-
 ---
 
 ### 👨‍💻 About Me
-
-* 🎓 **Computer Science** student at **[University Name]** (Expected Graduation: **[Month, Year]**)
-
 I am a third-year student in the Faculty of Science and Technology, majoring in Computer Science.I am interested in undertaking a co-operative education internship as a Software Developer.I am interested in developing programs, websites, and applications to improve my programming skills and create efficient software. This will help me further my project development and allow me to learn new technologies. The benefits of the internship include developing teamwork skills, self-improvement, and a quick learning ability, ultimately contributing to the organization's valuable work.
 
 ---
@@ -26,6 +22,16 @@ Phone Tel : 0822955992 <br>
 
 
 ---
+## 📄 Resume
+
+
+  <a href="https://github.com/user-attachments/files/26888077/Resume.Internship.pdf." />
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-FF6699?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+<p align="left">
+  📌 Click the button above to view or download my resume  
+  🚀 You can also explore my portfolio website for live projects
+</p>
 
 ### 🛠️ Tech Stack & Tools
 
