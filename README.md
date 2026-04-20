@@ -8,10 +8,12 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-FF6699?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
+
 ---
 
 ### 👨‍💻 About Me
-I am a third-year student in the Faculty of Science and Technology, majoring in Computer Science.I am interested in undertaking a co-operative education internship as a Software Developer.I am interested in developing programs, websites, and applications to improve my programming skills and create efficient software. This will help me further my project development and allow me to learn new technologies. The benefits of the internship include developing teamwork skills, self-improvement, and a quick learning ability, ultimately contributing to the organization's valuable work.
+I am a third-year Computer Science student in the Faculty of Science and Technology ,majoring in Computer Science. I am interested in undertaking a co-operative education internship as a Full-Stack Developer.
+I am deeply interested in the end-to-end development process, from designing intuitive user interfaces to building robust and scalable backend systems. I constantly strive to improve my programming logic and problem-solving skills through creating efficient web applications and software solutions. My goal for this internship is to immerse myself in modern technologies and real-world development workflows. I am a fast learner and a dedicated team player, eager to contribute my technical skills and creative energy to help the organization achieve its goals.
 
 ---
 
@@ -25,14 +27,21 @@ Phone Tel : 0822955992 <br>
 ## 📄 Resume
 
 
-  <a href="https://github.com/user-attachments/files/26888077/Resume.Internship.pdf." />
+  <a href="https://drive.google.com/file/d/1Mrz7EmJZrrrkSQp_YUmo6jY6YfJirWuR/view?usp=drivesdk" />
     <img src="https://img.shields.io/badge/Download%20Resume-PDF-FF6699?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
+
+---
+
+## 🏅 Certificates & Activities
+
 <p align="left">
-  📌 Click the button above to view or download my resume  
-  🚀 You can also explore my portfolio website for live projects
+  <a href="https://mm0444.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-View%20All-FFB300?style=for-the-badge&logo=google-drive&logoColor=yellow" />
+  </a>
 </p>
 
+---
 ### 🛠️ Tech Stack & Tools
 
 **💻 Frontend** <br>
@@ -75,15 +84,13 @@ Phone Tel : 0822955992 <br>
 
 ---
 
-### 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your_username]&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your_username]&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your_username]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mm0444&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mm0444&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Mm0444&theme=tokyonight&hide_border=true" />
+</p>
